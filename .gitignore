@@ -1,0 +1,12 @@
+# Ignore any IDE generated files or folders
+.idea/
+
+# Ignore any settings files
+settings.conf
+config.py
+
+# Ignore environment folder
+env/
+
+# Ignore tests
+tests/
