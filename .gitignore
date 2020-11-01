@@ -1,6 +1,9 @@
 # Ignore any IDE generated files or folders
 .idea/
 
+# Ignore python cache files
+__pycache__/
+
 # Ignore any settings files
 settings.conf
 config.py
