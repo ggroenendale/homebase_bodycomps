@@ -13,3 +13,4 @@ env/
 
 # Ignore tests
 tests/
+test.py
